@@ -39,7 +39,7 @@ a[j+1] = temp;
 printf("the sorted %d elements are\n",n);
 for(i=0;i<n;i++)
 {
-printf("%d\n",&a[i]);
+printf("%d\n",a[i]);
 }
 
 getch();
